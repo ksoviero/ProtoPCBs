@@ -12,7 +12,7 @@ All ProtoPCBs use 100 mil spacing between tie-points and 300 mil spacing in the 
 
 If you would like to have one or more of these produced by your PCB fab of choice, then you're going to need to do the following:
 
-### Create ZIP File (e.g. ProtoPCB_32)
+Create ZIP File (e.g. ProtoPCB_32):
 
 ```
 git clone https://github.com/ksoviero/ProtoPCBs.git
