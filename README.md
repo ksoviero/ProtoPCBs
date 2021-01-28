@@ -4,7 +4,7 @@ This is a collection of solderable breadboards. There are six different varietie
 
 ## Dimentions
 
-All ProtoPCBs use 100 mil spacing between tie-points and 300 mil spacing in the center for allowing the use of DIP ICs. 
+All ProtoPCBs use 100 mil spacing between tie-points and 300 mil spacing in the center for allowing the use of DIP ICs. Pads are 60 mils with 40 mil holes. Traces are 16 mils wide.
 
 ![Dimensions for ProtoPCB_16](https://github.com/ksoviero/ProtoPCBs/raw/master/Dimensions.png)
 
