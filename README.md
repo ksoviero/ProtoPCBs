@@ -10,7 +10,7 @@ All ProtoPCBs use 100 mil spacing between tie-points and 300 mil spacing in the 
 
 ## Sending to a PCB Fab
 
-If you would like to have one or more of these produced by your PCB fab of choice, then you're going to need to do the following:
+If you would like to have one or more of these produced by your PCB fab of choice, then you're going to need to create a Zip file for sending to the fab.
 
 To create the Zip file (e.g. for ProtoPCB_32):
 
